@@ -5,7 +5,8 @@
     "moduleResolution": "bundler",
     "strict": true,
     "esModuleInterop": true,
-    "outDir": "build"
+    "outDir": "dist",
+    "forceConsistentCasingInFileNames": true
   },
   "include": ["src", "lib"],
   "exclude": ["node_modules"]
